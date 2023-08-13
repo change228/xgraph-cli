@@ -12,7 +12,14 @@
     "lint:stylelint": "stylelint */**/*.{vue,css,scss,sass} --fix",
     "lint": "pnpm run lint:eslint & pnpm run lint:format"
   },
-  "keywords": [],
+  "keywords": [
+    "babel",
+    "rollup",
+    "cli",
+    "automation",
+    "prettier",
+    "eslint"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
